@@ -25,6 +25,8 @@ let songs = [
     {songName: "Sea Shanty - Wellerman", filePath: "songs/13.mp3", coverPath: "covers/13.jpg"},
     {songName: "Shape of you - Ed Sheeren", filePath: "songs/14.mp3", coverPath: "covers/14.jpg"},
     {songName: "Sugar and Brownies - Dharia", filePath: "songs/15.mp3", coverPath: "covers/15.jpg"},
+    {songName: "Dancin - CG5", filePath: "songs/16.mp3 coverPath: "covers/16.jpg"},
+    {songName: "Astronaut in ocean - Alok", filePath: "songs/17.mp3", coverPath: "covers/17.jpg"},
 ]
 
 songItems.forEach((element, i)=>{ 
